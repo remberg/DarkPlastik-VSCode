@@ -4,7 +4,7 @@
   "description": "DarkPlastic is a refined dark blue-gray theme with subtle contrasts, designed for a sleek and distraction-free coding experience. Its deep tones reduce eye strain while maintaining excellent readability, making it perfect for long coding sessions.",
   "publisher": "StefanRemberg",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.8.0"
   },
@@ -17,6 +17,7 @@
 		"theme",
 		"color-theme"
 	],
+  "icon": "assets/Icon.png",
   "repository": {
 		"type": "git",
 		"url": "https://github.com/remberg/DarkPlastik-VSCode.git"
