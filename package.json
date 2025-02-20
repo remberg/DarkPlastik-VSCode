@@ -1,0 +1,31 @@
+{
+  "name": "darkplastic",
+  "displayName": "DarkPlastic Theme",
+  "description": "DarkPlastic is a refined dark blue-gray theme with subtle contrasts, designed for a sleek and distraction-free coding experience. Its deep tones reduce eye strain while maintaining excellent readability, making it perfect for long coding sessions.",
+  "publisher": "StefanRemberg",
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.8.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"dark",
+		"blue",
+		"theme",
+		"color-theme"
+	],
+  "sponsor": {
+  "url": "https://github.com/sponsors/remberg"},
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkPlastic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkPlastic-color-theme.json"
+      }
+    ]
+  }
+}
