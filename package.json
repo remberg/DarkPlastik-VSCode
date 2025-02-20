@@ -19,7 +19,8 @@
 	],
   "repository": {
 		"type": "git",
-		"url": "https://github.com/remberg/DarkPlastik-VSCode.git",
+		"url": "https://github.com/remberg/DarkPlastik-VSCode.git"
+  },
   "sponsor": {
   "url": "https://github.com/sponsors/remberg"},
   "contributes": {
