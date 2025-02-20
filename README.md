@@ -1,16 +1,7 @@
-# darkplastic README
+# DarkPlastic VSCode color theme
+DarkPlastic is a refined dark blue-gray theme with subtle contrasts,
+designed for a sleek and distraction-free coding experience. 
 
-## Working with Markdown
+Its deep tones reduce eye strain while maintaining excellent readability, making it perfect for long coding sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Screenshot](https://raw.githubusercontent.com/remberg/DarkPlastik-VSCode/refs/heads/main/screenshot.png)
