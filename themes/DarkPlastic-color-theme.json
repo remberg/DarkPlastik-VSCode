@@ -252,7 +252,7 @@
     "editorGutter.commentRangeForeground": "#7a8db2",
     "debugExceptionWidget.background": "#151a24",
     "debugExceptionWidget.border": "#474747",
-    "welcomePage.background": "#5f7491"
+    "welcomePage.background": "#0c0f15"
   },
 "tokenColors": [
     {
